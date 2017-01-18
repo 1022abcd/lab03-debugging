@@ -5,6 +5,7 @@ class stringProcessor{
     }
 
     public getString(): string{
+        //console.log("DEBUG");
         return data;
     }
 
